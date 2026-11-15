@@ -21,7 +21,7 @@ Boa parte do que faço vive em repositórios privados — aqui vai o resumo do q
 - **Aplicações web em .NET.** Sistemas de gestão e vendas com ASP.NET MVC ([`SalesWebMvc`](https://github.com/Wart3mis/SalesWebMvc)), explorando padrões de arquitetura em C#.
 - **Fundamentos e lógica.** Projetos como [`xadrez-console`](https://github.com/Wart3mis/xadrez-console) para praticar orientação a objetos e lógica de jogo em C#.
 
-#### 🛠️ Stack
+#### 📦 Stack
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
